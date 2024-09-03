@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+.block-heading {
+            color: #3b99e0;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .summary {
+            border-top: 2px solid #5ea4f3;
+            background-color: #f7fbff;
+            padding: 1.5rem;
+            border-radius: 0.25rem;
+        }
+        .summary-button {
+            background-color: #3b99e0;
+            color: #fff;
+            border: none;
+        }
